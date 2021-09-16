@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on Node security packages...
 - 📫 You can reach me on my Twitter @h97_andres...
 
-I have also a Geology / Earth Sciences degree, and I did some Data Science in my Tesis final project 
-using a Python library called GemPy and some auxiliary libraries like Numpy, Pandas.
+I also have a Geology / Earth Sciences degree, and I did some Data Science in my Tesis final project 
+using a Python library called GemPy and some auxiliary libraries like Numpy, Pandas and Matplotlib.
 
