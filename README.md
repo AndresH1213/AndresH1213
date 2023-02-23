@@ -28,7 +28,14 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
     
                            
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/df1404f038a8252dec0847c94dcd4f0be9c4491a2682bc601d276f835e8eaa5d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626173682f626173682d6f726967696e616c2e737667"><img align="left" alt="Bash" width="30px" src="https://camo.githubusercontent.com/df1404f038a8252dec0847c94dcd4f0be9c4491a2682bc601d276f835e8eaa5d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626173682f626173682d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="max-width: 100%;"></a></p>
+
+<img align="left" alt="Postgresql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img align="left" alt="Postgresql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+          
+          
 <br>
 <h1 dir="auto"></h1>
 
 # Main Projects
+
+## Disgrafic
