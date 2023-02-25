@@ -41,16 +41,15 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
 
   <div style="display: flex;">
     <div>
-    <img align="left" style="border: 1px solid black; margin: 5px;" alt="first project" width="333px" src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio1b.PNG" />
+    <img align="left" style="border: 1px solid black; margin: 5px;" alt="first project" width="333px" src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio1b.PNG">
+      <p>WebApp Map integration. <a href="">Repo</a>  <a href="">Web live</a></p>
+    </div>
+ <div>     
+    <img align="left" style="border: 1px solid black; margin: 5px;" alt="second project" width="333px" src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio2b.png">
       <p>WebApp Map integration. <a href="">Repo</a>  <a href="">Web live</a></p>
     </div>
     <div>
-      
-        <img align="left" style="border: 1px solid black; margin: 5px;" alt="second project" width="333px" src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio2b.png" />
-      <p>WebApp Map integration. <a href="">Repo</a>  <a href="">Web live</a></p>
-    </div>
-    <div>
-        <img align="left" style="border: 1px solid black; margin: 5px;" alt="third project" width="333px" src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio3b.PNG" />
+        <img align="left" style="border: 1px solid black; margin: 5px;" alt="third project" width="333px" src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio3b.PNG">
       <p>WebApp Map integration. <a href="">Repo</a>  <a href="">Web live</a></p>
     </div>
 </div>
