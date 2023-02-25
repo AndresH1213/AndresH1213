@@ -48,6 +48,7 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
 </a>
 <a href="">
 <img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio3b.PNG" alt="MapBox Application" title="MapBox Application" width="300px" style="max-width: 100%; margin: 10px;">
+      <p>Mapbox App</b>
  </a>
       </div>
 
