@@ -39,7 +39,7 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
 ## Main Projects
 
 
-  <div style="display: flex;">
+  <div style="display:flex; justify-content:center;">
     <div>
     <img align="left" style="border: 1px solid black; margin: 5px;" alt="first project" width="333px" src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio1b.PNG">
       <p>WebApp Map integration. <a href="">Repo</a>  <a href="">Web live</a></p>
