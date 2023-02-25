@@ -47,7 +47,7 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
         <img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio1b.PNG" alt="Ecommerce and Products Administrator" width="300px" title="Ecommerce and Products Administrator" style="max-width: 100%; margin: 10px;">
       </a>
       <p style="font-size: 18px; font-weight: bold; margin: 0;">(MEAN Stack - Running on Fargate)</p>
-          <a href="">Repo</a>
+          <a href="https://github.com/AndresH1213/ecogaia-project">Repo</a>
     </td>
     <td style="text-align: center; vertical-align: top; padding: 10px;">
            <p>Disgrafic App</p>
@@ -55,7 +55,7 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
         <img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio2b.png" alt="Litographic webpage" width="300px" title="Litographic webpage" style="max-width: 100%; margin: 10px;">
       </a>
       <p style="font-size: 18px; font-weight: bold; margin: 0;">(Angular + Serverless Framework)</p>
-          <a href="">Repo</a>
+          <a href="https://github.com/AndresH1213/disgrafic-project">Repo</a>
     </td>
     <td style="text-align: center; vertical-align: top; padding: 10px;">
            <p>Mapbox App </p>
@@ -63,7 +63,7 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
         <img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio3b.PNG" alt="MapBox Application" title="MapBox Application" width="300px" style="max-width: 100%; margin: 10px;">
       </a>
       <p style="font-size: 18px; font-weight: bold; margin: 0;">(Angular - Mapbox Api)</p>
-      <a href="#" style="text-decoration: none;">Repo</a>
+      <a href="https://github.com/AndresH1213/MapboxApp">Repo</a>
     </td>      
   </tr>
 </table>
@@ -72,4 +72,10 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
 
 <details>
 <summary><h3>My Coding Journey</h3></summary>
-  I started my coding journey as a naive computer science studen wit a passion to learn everything I could about this programming world
+I've always been fascinated by science and technology, for this reason I decided to study geology as my university major. It was an interesting field, but I discovered that my true passion was in the world of software development.
+
+Throughout my career I have used different computer tools, such as Python Scripts to automate tasks related to Geophysical Software, even in my thesis, which involved creating a three-dimensional model using Python libraries. However, it wasn't long before I realized that my true calling was in the field of software engineering.
+
+With each passing day, I became more skilled and confident in my abilities, finding joy in creating innovative software solutions and solving complex problems.
+
+Today, I am working as a software developer and have managed to turn this passion for programming into a career. Always looking for new challenges and opportunities to grow.
