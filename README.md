@@ -41,16 +41,15 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
 
 <div>
 <a href="https://ecogaiashop.site" target="_blank">
-<img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio1b.PNG" alt="Ecommerce and Products Administrator" width="300px" title="Ecommerce and Products Administrator" style="max-width: 100%;">
+<img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio1b.PNG" alt="Ecommerce and Products Administrator" width="300px" title="Ecommerce and Products Administrator" style="max-width: 100%; margin: 10px;">
 </a>
 <a href="http://disgrafic-angular-project.s3-website-us-east-1.amazonaws.com" target="_blank">
-<img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio2b.png" alt="Litographic webpage" width="300px" title="Litographic webpage" style="max-width: 100%;">
+<img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio2b.png" alt="Litographic webpage" width="300px" title="Litographic webpage" style="max-width: 100%; margin: 10px;">
 </a>
+<a href="">
+<img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio3b.PNG" alt="MapBox Application" title="MapBox Application" width="300px" style="max-width: 100%; margin: 10px;">
+ </a>
       </div>
-      
-<a href="" rel="nofollow"><img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio3b.PNG" alt="MapBox Application" title="MapBox Application" width="300px" style="max-width: 100%;"></a>
-      
-</div>
 
 <h1 dir="auto"></h1>
 
