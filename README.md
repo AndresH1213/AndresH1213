@@ -71,10 +71,8 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
 <h1 dir="auto"></h1>
 
 <details>
-<summary><h3>My Coding Journey</h3></summary>
-I've always been fascinated by science and technology, for this reason I decided to study geology as my university major. It was an interesting field, but I discovered that my true passion was in the world of software development.
-
-Throughout my career I have used different computer tools, such as Python Scripts to automate tasks related to Geophysical Software, even in my thesis, which involved creating a three-dimensional model using Python libraries. However, it wasn't long before I realized that my true calling was in the field of software engineering.
+<summary><h3>My Coding Journey 🧟‍♂️</h3></summary>
+I've always been fascinated by science and technology, for this reason I decided to study geology as my university major. It was an interesting field, but I discovered that my true passion was in the world of software development. Throughout my career I've used different computer tools, such as Python Scripts to automate tasks related to Geophysical Software, even in my thesis, which involved creating a three-dimensional model using Python libraries. However, it wasn't long before I realized that my true calling was in the field of software engineering.
 
 With each passing day, I became more skilled and confident in my abilities, finding joy in creating innovative software solutions and solving complex problems.
 
