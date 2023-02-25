@@ -39,22 +39,12 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
 ## Main Projects
 
 
-  <div style="display:flex; justify-content:center;">
-    <div>
-    <img align="left" style="border: 1px solid black; margin: 5px;" alt="first project" width="333px" src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio1b.PNG">
-      <p>WebApp Map integration. <a href="">Repo</a>  <a href="">Web live</a></p>
-    </div>
- <div>     
-    <img align="left" style="border: 1px solid black; margin: 5px;" alt="second project" width="333px" src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio2b.png">
-      <p>WebApp Map integration. <a href="">Repo</a>  <a href="">Web live</a></p>
-    </div>
-    <div>
-        <img align="left" style="border: 1px solid black; margin: 5px;" alt="third project" width="333px" src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio3b.PNG">
-      <p>WebApp Map integration. <a href="">Repo</a>  <a href="">Web live</a></p>
-    </div>
-</div>
-<br/>
-<div>
+<p dir="auto"><a href="https://ecogaiashop.site" rel="nofollow"><img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio1b.PNG" alt="The Making of Linux: The World's First Open-Source Operating System" title="Ecommerce and Products Administrator" style="max-width: 100%;"></a>
+<a href="https://www.youtube.com/watch?v=Xffgj-RjOXw" rel="nofollow"><img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio2b.png" alt="If you use ChatGPT to CHEAT, do this ONE THING!" title="If you use ChatGPT to CHEAT, do this ONE THING!" style="max-width: 100%;"></a>
+<a href="https://www.youtube.com/watch?v=Xj6lUopD8fA" rel="nofollow"><img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio3b.PNG" alt="MapBox Application" title="MapBox Application" data-canonical-src="https://ytcards.demolab.com/?id=Xj6lUopD8fA&amp;title=The+ONLY+Way+to+Get+BETTER+at+CODING&amp;lang=en&amp;timestamp=1676302213&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;width=250&amp;duration=36" style="max-width: 100%;"></a>
+
+<h1 dir="auto"></h1>
+
 <details>
 <summary><h3>My Coding Journey</h3></summary>
   I started my coding journey as a naive computer science studen wit a passion to learn everything I could about this programming world
