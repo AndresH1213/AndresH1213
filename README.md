@@ -39,14 +39,16 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
 ## Main Projects
 
 
-<p dir="auto">
-      <a href="https://ecogaiashop.site" targe="_blank"><img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio1b.PNG" alt="Ecommerce and Products Administrator" width="300px" title="Ecommerce and Products Administrator" style="max-width: 100%;"></a>
+<div style="display: flex;">
+      <a href="https://ecogaiashop.site" targe="_blank">
+            <img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio1b.PNG" alt="Ecommerce and Products Administrator" width="300px" title="Ecommerce and Products Administrator" style="max-width: 100%;">
+      </a>
       
-<a href="https://www.youtube.com/watch?v=Xffgj-RjOXw" rel="nofollow"><img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio2b.png" alt="Litographic webpage" width="300px" title="Litographic webpage" style="max-width: 100%;"></a>
+<a href="[https://www.youtube.com/watch?v=Xffgj-RjOXw](http://disgrafic-angular-project.s3-website-us-east-1.amazonaws.com)" rel="nofollow"><img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio2b.png" alt="Litographic webpage" width="300px" title="Litographic webpage" style="max-width: 100%;"></a>
       
-<a href="https://www.youtube.com/watch?v=Xj6lUopD8fA" rel="nofollow"><img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio3b.PNG" alt="MapBox Application" title="MapBox Application" width="300px" style="max-width: 100%;"></a>
+<a href="" rel="nofollow"><img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio3b.PNG" alt="MapBox Application" title="MapBox Application" width="300px" style="max-width: 100%;"></a>
       
-</p>
+</div>
 
 <h1 dir="auto"></h1>
 
