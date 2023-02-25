@@ -63,8 +63,7 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
         <img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio3b.PNG" alt="MapBox Application" title="MapBox Application" width="300px" style="max-width: 100%; margin: 10px;">
       </a>
       <p style="font-size: 18px; font-weight: bold; margin: 0;">(Angular - Mapbox Api)</p>
-<a href="#" style="background-color: #FF69B4; color: #FFFFFF; font-size: 16px; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Repo</a>
-
+      <a href="#" style="text-decoration: none;">Repo</a>
     </td>      
   </tr>
 </table>
