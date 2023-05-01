@@ -42,6 +42,14 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="text-align: center; vertical-align: top; padding: 10px;">
+           <p>Hashibis Project</p>
+      <a href="" style="text-decoration: none;">
+        <img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio3b.png" alt="Hashibis Application" title="Hashibis Application" width="300px" style="max-width: 100%; margin: 10px;">
+      </a>
+      <p style="font-size: 18px; font-weight: bold; margin: 0;">(Serverless Typescript - Microservicios Rest)</p>
+      <a href="https://github.com/AndresH1213/hashibis-project">Repo</a>
+    </td>  
+    <td style="text-align: center; vertical-align: top; padding: 10px;">
           <p>Ecogaia Ecommerce</p>
       <a href="https://ecogaiashop.site" target="_blank" style="text-decoration: none;">
         <img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio1b.PNG" alt="Ecommerce and Products Administrator" width="300px" title="Ecommerce and Products Administrator" style="max-width: 100%; margin: 10px;">
@@ -56,15 +64,7 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
       </a>
       <p style="font-size: 18px; font-weight: bold; margin: 0;">(Angular + Serverless Framework)</p>
           <a href="https://github.com/AndresH1213/disgrafic-project">Repo</a>
-    </td>
-    <td style="text-align: center; vertical-align: top; padding: 10px;">
-           <p>Mapbox App </p>
-      <a href="" style="text-decoration: none;">
-        <img src="https://disgrafic-product-bucket-sand.s3.us-east-2.amazonaws.com/varios/porfolio3b.PNG" alt="MapBox Application" title="MapBox Application" width="300px" style="max-width: 100%; margin: 10px;">
-      </a>
-      <p style="font-size: 18px; font-weight: bold; margin: 0;">(Angular - Mapbox Api)</p>
-      <a href="https://github.com/AndresH1213/MapboxApp">Repo</a>
-    </td>      
+    </td>    
   </tr>
 </table>
 
