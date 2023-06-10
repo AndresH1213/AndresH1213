@@ -1,10 +1,10 @@
-# 🌎 Andrés Hernández 🌝
+# 🌎 Andrés Hernández 
 
 **`Software Development (Science Enthusiast)`**
 
 👋 Hi, I'm FullStack Software Developer with special interest in Backend 💾 and Serverless Architectures, I enjoy developing cloud-based solutions and have projects hosted on Amazon Web Services, and also I have two associated certificates (Developer and Solution Architect). In my work, I always strive to implement the best solutions for the benefit of the company in each specific case. I'm eager to learn new technologies and expand my skill set, which is why I'm currently focused on learning about database design, advanced data structures and algorithms, and containerization technologies such as Docker and Kubernetes.
 
-If you'd like to get in touch, feel free to connect with me on my [Linkedin profile](https://www.linkedin.com/in/andrés-hernández-927384213/). Also you can checkout my [Porfolio](https://andresh1213.github.io)✌
+If you'd like to get in touch, feel free to connect with me on my [Linkedin profile](https://www.linkedin.com/in/andrés-hernández-927384213/). Also you can checkout my [Porfolio](https://andresh1213.github.io)
 
 <hr>
 <h3 tabindex="-1" dir="auto"><a id="user-content--languages-and-tools" class="anchor" aria-hidden="true" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji> Languages and Tools</h3>
