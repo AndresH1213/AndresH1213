@@ -19,10 +19,11 @@ If you'd like to get in touch, feel free to connect with me on my [Linkedin prof
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="./imgs/css.svg"><img align="left" alt="CSS" width="30px" src="./imgs/css.svg" style="max-width: 100%;"></a></p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="./imgs/javascript.svg"><img align="left" alt="JavaScript" width="30px" src="./imgs/javascript.svg" style="max-width: 100%;"></a></p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="./imgs/react.svg"><img align="left" alt="React" width="30px" src="./imgs/react.svg" style="max-width: 100%;"></a></p>
-<img align="left" alt="Postgresql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img align="left" alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="./imgs/node.svg"><img align="left" alt="NodeJS" width="30px" src="./imgs/node.svg" style="max-width: 100%;"></a></p>
-<img align="left" alt="Postgresql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img align="left" alt="Express" width="30px" src="./imgs/express.svg" />
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="./imgs/python.svg"><img align="left" alt="Python" width="30px" src="./imgs/python.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="./imgs/mysql.svg"><img align="left" alt="MySql" width="30px" src="./imgs/mysql.svg" style="max-width: 100%;"></a></p>
 
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
       
